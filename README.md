@@ -11,7 +11,8 @@ O projeto é uma análise de dados que deve conter as seguintes etapas:
 -> Realizar a seleção de variáveis;
 -> Aplicar um modelo de regressão ou classificação utilizando uma técnica de hiperparametrização automática;
 -> Aplicar uma medida de avaliação do modelo.
--> Gerar uma visualização para o resultado de acordo com os tipos abaixo:
+
+Gerar uma visualização para o resultado de acordo com os tipos abaixo:
   -> Agrupamento: gerar a visualização Scatter;
   -> Classificação: gerar a matriz de confusão; 
   -> Regressão: gerar a visualização da linha de saída.
