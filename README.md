@@ -1,15 +1,15 @@
 <h1 align="center">A3 AnaliseDeDados</h1>
 <h2>Projeto da UC Análises Descritivas e Modelos Analíticos para problemas de negócios</h2>
 
-O projeto é uma análise de dados que deve conter as seguintes etapas:
--> Carregar e ler arquivos .csv, xlsx ou de um banco de dados;
--> Avaliar a necessidade da transformação da variável em outra escala (agrupar idade por faixas, por exemplo);
--> Realizar a codificação das variáveis categóricas de acordo com os valores das variáveis (label encoder, one hot encoder ou target encoder);
--> Normalizar as variáveis;
+O projeto é uma análise de dados que deve conter as seguintes etapas:</br>
+-> Carregar e ler arquivos .csv, xlsx ou de um banco de dados;</br>
+-> Avaliar a necessidade da transformação da variável em outra escala (agrupar idade por faixas, por exemplo);</br>
+-> Realizar a codificação das variáveis categóricas de acordo com os valores das variáveis (label encoder, one hot encoder ou target encoder);</br>
+-> Normalizar as variáveis;</br>
 -> Avaliar a necessidade de realizar o balanceamento da variável alvo;
--> Tratar variáveis com alta correlação;
--> Realizar a seleção de variáveis;
--> Aplicar um modelo de regressão ou classificação utilizando uma técnica de hiperparametrização automática;
+-> Tratar variáveis com alta correlação;</br>
+-> Realizar a seleção de variáveis;</br>
+-> Aplicar um modelo de regressão ou classificação utilizando uma técnica de hiperparametrização automática;</br>
 -> Aplicar uma medida de avaliação do modelo.
 
 Gerar uma visualização para o resultado de acordo com os tipos abaixo:
