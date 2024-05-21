@@ -1,5 +1,5 @@
-# A3_AnaliseDeDados
-Projeto da UC Análises Descritivas e Modelos Analíticos para problemas de negócios
+<h1 align="center">A3 AnaliseDeDados</h1>
+<h2>Projeto da UC Análises Descritivas e Modelos Analíticos para problemas de negócios</h2>
 
 O projeto é uma análise de dados que deve conter as seguintes etapas:
 -> Carregar e ler arquivos .csv, xlsx ou de um banco de dados;
