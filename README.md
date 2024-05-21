@@ -13,6 +13,9 @@ O projeto é uma análise de dados que deve conter as seguintes etapas:</br>
 -> Aplicar uma medida de avaliação do modelo.
 
 Gerar uma visualização para o resultado de acordo com os tipos abaixo:
-  -> Agrupamento: gerar a visualização Scatter;
-  -> Classificação: gerar a matriz de confusão; 
-  -> Regressão: gerar a visualização da linha de saída.
+  -> Agrupamento: gerar a visualização Scatter;</br>
+  -> Classificação: gerar a matriz de confusão;</br>
+  -> Regressão: gerar a visualização da linha de saída.</br>
+
+<p>A base de dados escolhida para o projeto foi retirada de </p>
+<a>https://www.kaggle.com/datasets/asaniczka/video-game-sales-2024 </a> <p>, dataset que foi criado pelo usuário Asaniczka</p>
