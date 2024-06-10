@@ -18,4 +18,4 @@ Gerar uma visualização para o resultado de acordo com os tipos abaixo:
   -> Regressão: gerar a visualização da linha de saída.</br>
 
 <p>A base de dados escolhida para o projeto foi criada pelo usuário Asaniczka e obtida via Kaggle no link:</p>
-<a>https://www.kaggle.com/datasets/asaniczka/video-game-sales-2024</a>
+<a>https://archive.ics.uci.edu/dataset/275/bike+sharing+dataset</a>
