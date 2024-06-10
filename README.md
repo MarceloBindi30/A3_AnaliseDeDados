@@ -19,3 +19,11 @@ Gerar uma visualização para o resultado de acordo com os tipos abaixo:
 
 <p>A base de dados escolhida para o projeto foi criada pelo usuário Asaniczka e obtida via Kaggle no link:</p>
 <a>https://archive.ics.uci.edu/dataset/275/bike+sharing+dataset</a>
+
+Autores:
+
+Gustavo Maglio Campos – RA: 12522162221
+Marcelo Bindi Leal – RA: 12522189242
+Murilo Mandu dos Santos – RA: 12522160255
+Allan dos Santos Grell - RA: 12522142998
+Victor Macartney Oscar Monteiro – RA: 12522164519
