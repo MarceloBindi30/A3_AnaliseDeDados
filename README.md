@@ -20,8 +20,10 @@ Gerar uma visualização para o resultado de acordo com os tipos abaixo:
 <p>A base de dados escolhida para o projeto foi criada pelo usuário Asaniczka e obtida via Kaggle no link:</p>
 <a>https://archive.ics.uci.edu/dataset/275/bike+sharing+dataset</a>
 
-Autores:
 <table>
+  <tr>
+    <th>Autores:</th>
+  </tr>
   <tr>
     <td>Gustavo Maglio Campos – RA: 12522162221</td>
   </tr>
