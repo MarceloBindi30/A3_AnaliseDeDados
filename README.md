@@ -22,9 +22,19 @@ Gerar uma visualização para o resultado de acordo com os tipos abaixo:
 
 Autores:
 <table>
-  <tr>Gustavo Maglio Campos – RA: 12522162221</tr>
-  <tr>Marcelo Bindi Leal – RA: 12522189242</tr>
-  <tr>Murilo Mandu dos Santos – RA: 12522160255</tr>
-  <tr>Allan dos Santos Grell - RA: 12522142998</tr>
-  <tr>Victor Macartney Oscar Monteiro – RA: 12522164519</tr>
+  <tr>
+    <td>Gustavo Maglio Campos – RA: 12522162221</td>
+  </tr>
+  <tr>
+    <td>Marcelo Bindi Leal – RA: 12522189242</td>
+  </tr>
+  <tr>
+    <td>Murilo Mandu dos Santos – RA: 12522160255</td>
+  </tr>
+  <tr>
+    <td>Allan dos Santos Grell - RA: 12522142998</td>
+  </tr>
+  <tr>
+    <td>Victor Macartney Oscar Monteiro – RA: 12522164519</td>
+  </tr>
 </table>
